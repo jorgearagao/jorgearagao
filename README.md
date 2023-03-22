@@ -1,5 +1,7 @@
 # 💫 About Me:
 Meu nome é Jorge Aragão e estou estudando para me tornar um desenvolvedor:<br>Estou estudando:<br>HTML, CSS e JavaScript<br><br>Atualmentemente sou Analista de Suporte, tratando incidentes de infraestrutura de TI com foco em soluções Microsoft:<br>Windows Server, Azure, Microsoft 365, Active Directory
+<br><br>
+Sou formado em Redes de computadores e estou cursando Engenharia de Software
 
 
 ## 🌐 Socials:
